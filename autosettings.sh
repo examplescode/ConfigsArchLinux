@@ -31,12 +31,3 @@ cp cbg.sh $HOME/
 sudo pacman -Syy figlet noto-fonts-emoji
 cd $HOME
 figlet -c Fin!!!
-figlet -c Sigueme
-echo ""
-echo ""
-echo "Youtube:      https://www.youtube.com/channel/UCm_CD6QqAEgtaHde9UycbuA"
-echo "Facebook:     https://www.facebook.com/Sergio-Ribera-102222487877688"
-echo "Blog:         blog.sergioribera.com"
-echo ""
-echo ""
-echo "Gracias :D"
